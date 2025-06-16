@@ -1,7 +1,8 @@
 # ROPA AFRICANA - Tienda Online
 
 ## Descripción
-ROPAAFRICANA es una plataforma de comercio electrónico especializada en la venta de ropa africana. El sistema está construido con PHP y utiliza una arquitectura moderna que separa el frontend del backend.
+ROPAAFRICANA es una plataforma de comercio electrónico especializada en la venta de ropa africana. 
+El sistema está construido con PHP y utiliza una arquitectura moderna que separa el frontend del backend.
 
 ## Características Principales
 
@@ -58,11 +59,10 @@ ROPAAFRICANA/
 - PHP
 - MySQL
 - Bootstrap 4
-- AdminLTE 3
+- AdminLTE
 - jQuery
 - DataTables
 - PHPMailer
-- Google API Client
 
 ## Seguridad
 - Implementación de OAuth 2.0
